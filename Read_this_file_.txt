@@ -1,0 +1,7 @@
+<-----------------To Use this Database---------------->
+
+
+1.Copy the folder inside the database folder
+2.paste it in this directory <------------.netbeans-derby----->
+
+ 
